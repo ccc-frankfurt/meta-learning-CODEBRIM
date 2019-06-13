@@ -1,5 +1,5 @@
 # meta-learning-CODEBRIM
-**Open-source code for our CVPR19 paper "Meta-learning Convolutional Neural Architectures for Multi-target Concrete Defect Classification with the COncrete DEfect BRidge IMage Dataset": [https://arxiv.org/abs/1904.08486](https://arxiv.org/abs/1904.08486)**
+**Open-source code for our CVPR19 paper "Meta-learning Convolutional Neural Architectures for Multi-target Concrete Defect Classification with the COncrete DEfect BRidge IMage Dataset": [IEEE open access](http://openaccess.thecvf.com/content_CVPR_2019/html/Mundt_Meta-Learning_Convolutional_Neural_Architectures_for_Multi-Target_Concrete_Defect_Classification_With_CVPR_2019_paper.html) or [https://arxiv.org/abs/1904.08486](https://arxiv.org/abs/1904.08486)**
 
 Please cite the paper if you make use of the content (e.g. the dataset):
 
@@ -17,5 +17,5 @@ Please note that the dataset is licensed for non-commercial and educational use 
 ## Code for the paper
 The open-source code includes: PyTorch and TensorFlow dataloaders, PyTorch code for MetaQNN and TensorFlow code for ENAS for our task. The latter is forked from https://github.com/melodyguan/enas with additional changes that are pointed out in respective files.
 
-### License
+## License
 In summary, we allow usage for educational and research purposes. Please visit the license file for full terms and conditions. For the adapted ENAS code, further licensing applies according to the original authors. The respective license file is reproduced in the corresponding subdirectory and applies in addition to our license. 
