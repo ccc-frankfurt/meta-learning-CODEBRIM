@@ -15,6 +15,7 @@ The dataset is available at: [https://doi.org/10.5281/zenodo.2620293](https://do
 Please note that the dataset is licensed for non-commercial and educational use only as specified by the license file attached with the dataset at above link. 
 
 ## Code for the paper
-We are currently working very hard to open-source the code for our paper. We expect to upload it very soon. Stay tuned!
+The open-source code includes: PyTorch and TensorFlow dataloaders, PyTorch code for MetaQNN and TensorFlow code for ENAS for our task. The latter is forked from https://github.com/melodyguan/enas with additional changes that are pointed out in respective files.
 
-The open-source code will include: PyTorch and TensorFlow dataloaders, PyTorch code to train literature CNN baselines on our dataset, PyTorch code for MetaQNN and TensorFlow code for ENAS for our task.
+### License
+In summary, we allow usage for educational and research purposes. Please visit the license file for full terms and conditions. For the adapted ENAS code, further licensing applies according to the original authors. The respective license file is reproduced in the corresponding subdirectory and applies in addition to our license. 
