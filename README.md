@@ -27,6 +27,6 @@ You can find the respective code in the equally named directories with additiona
 In summary, we allow usage for educational and research purposes. Please visit the license file for full terms and conditions. For the adapted ENAS code, further licensing applies according to the original authors. The respective license file is reproduced in the corresponding subdirectory and applies in addition to our license. 
 
 ## CVPR2019 poster
-We have added the poster presented at CVPR2019 in imgs directory. 
+We have added the full resolution poster (pdf) presented at CVPR2019 in the imgs directory. Here is a jpg snapshot:
 
-![](imgs/CVPR19_CODEBRIM_poster.pdf)
+![](imgs/CVPR19_CODEBRIM_poster.jpg)
